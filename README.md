@@ -1,0 +1,2 @@
+# STRANGER.github.io
+Hexo
